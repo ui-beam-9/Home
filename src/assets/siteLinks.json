@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.mikutechnology.com"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://cloud.mikutechnology.com"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.mikutechnology.com"
+  },
+  {
+    "icon": "Compass",
+    "name": "上网导航",
+    "link": "https://daohang.mikutechnology.com"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.mikutechnology.com"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.mikutechnology.com/service"
+  }
+]
