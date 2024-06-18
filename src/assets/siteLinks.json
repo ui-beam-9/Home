@@ -2,31 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.mikutechnology.com"
+    "link": "https://blog.ui-beam.com"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://cloud.mikutechnology.com"
+    "link": "https://cloud.ui-beam.com"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.mikutechnology.com"
+    "link": "https://music.ui-beam.com"
   },
   {
     "icon": "Compass",
     "name": "上网导航",
-    "link": "https://daohang.mikutechnology.com"
+    "link": "https://nav.ui-beam.com"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.mikutechnology.com"
+    "link": "https://hot.ui-beam.com"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.mikutechnology.com/service"
+    "link": "https://status.ui-beam.com"
   }
 ]
