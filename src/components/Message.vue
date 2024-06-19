@@ -38,7 +38,7 @@ const store = mainStore();
 const siteLogo = import.meta.env.VITE_SITE_MAIN_LOGO;
 // 站点链接
 const siteUrl = computed(() => {
-  const url = import.meta.env.VITE_SITE_URL;
+  const url = import.meta.env.VITE_SITE_ANTHOR;
   if (!url) return "imsyy.top".split(".");
   // 判断协议前缀
   if (url.startsWith("http://") || url.startsWith("https://")) {
@@ -109,7 +109,7 @@ watch(
 
       .sm {
         margin-left: 6px;
-        font-size: 2rem;
+        font-size: 0rem;
         @media (min-width: 720px) and (max-width: 789px) {
           display: none;
         }

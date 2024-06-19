@@ -34,12 +34,12 @@ const emit = defineEmits(["loadComplete"]);
 
 // 壁纸随机数
 // 请依据文件夹内的图片个数修改 Math.random() 后面的第一个数字
-const bgRandom = Math.floor(Math.random() * 10 + 1);
+const bgRandom = Math.floor(Math.random() * 4 + 1);
 
 // 更换壁纸链接
 const changeBg = (type) => {
   if (type == 0) {
-    bgUrl.value = "https://cos.mikutechnology.com/photo/wallpaper/horizontal/119378275_p0.jpg";
+    bgUrl.value = `/images/background${bgRandom}.jpg`;
   } else if (type == 1) {
     bgUrl.value = "https://api.dujin.org/bing/1920.php";
   } else if (type == 2) {
@@ -47,7 +47,7 @@ const changeBg = (type) => {
   } else if (type == 3) {
     bgUrl.value = "https://api.aixiaowai.cn/api/api.php";
   } else if (type == 4) {
-    bgUrl.value = `/images/background${bgRandom}.jpg`;
+    bgUrl.value = "https://cos.mikutechnology.com/photo/wallpaper/horizontal/119378275_p0.jpg";
   }
 };
 
