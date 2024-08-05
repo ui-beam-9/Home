@@ -19,8 +19,8 @@
           </a> &
         </span>
         <!-- 站点备案 -->
-        <img src="https://oss.mikutechnology.cn/images/icon/police.png"> <a href="https://beian.miit.gov.cn"
-        target="_blank">蜀ICP备2021028665号</a> <img src="https://oss.mikutechnology.cn/images/icon/police.png "> <a
+        <img src="https://cos.ui-beam.com/images/icon/police.png"> <a href="https://beian.miit.gov.cn"
+        target="_blank">蜀ICP备2021028665号</a> <img src="https://cos.ui-beam.com/images/icon/police.png "> <a
         href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51012202001107">川公网安备51012202001107号</a>
       </div>
       <div v-else class="lrc">
